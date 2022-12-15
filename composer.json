@@ -16,11 +16,11 @@
     "minimum-stability": "dev",
     "require": {
         "psr/http-message": "^1.0",
-        "php-di/php-di": "^6.4",
         "talesoft/tale-pug": "^1.5.0"
     },
     "require-dev": {
         "slim/slim": "^4.10",
+        "php-di/php-di": "^6.4",
         "slim/psr7": "dev-master"
     },
     "autoload": {
