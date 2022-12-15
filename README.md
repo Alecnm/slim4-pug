@@ -1,5 +1,5 @@
 # slim4-pug
-Jade view for Slim3 framework
+Pug view files renderer for Slim 4 framework
 
 ## Install
 `$ composer require alecnm/slim4-pug dev-master`

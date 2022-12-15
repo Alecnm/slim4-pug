@@ -1,7 +1,7 @@
 {
     
     "name": "alecnm/slim4-pug",
-    "description": "Pug files renderer for Slim 4 framework",
+    "description": "Pug view files renderer for Slim 4 framework",
     "keywords": ["pug", "slim4"],
     "homepage": "https://github.com/alecnm/slim4-pug",
     "type": "library",
