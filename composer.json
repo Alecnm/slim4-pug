@@ -13,7 +13,7 @@
             "homepage": "https://github.com/Alecnm"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "psr/http-message": "^1.0",
         "php-di/php-di": "^6.4",
