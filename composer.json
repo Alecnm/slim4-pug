@@ -1,0 +1,29 @@
+{
+    
+    "name": "alecnm/slim4-pug",
+    "description": "Pug files renderer for Slim 4 framework",
+    "keywords": ["pug", "slim4"],
+    "homepage": "https://github.com/alecnm/slim4-pug",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alec Nino",
+            "email": "brahio02@gmail.com",
+            "homepage": "https://github.com/Alecnm"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "psr/http-message": "^1.0",
+        "php-di/php-di": "^6.4",
+        "talesoft/tale-pug": "^1.5.0",
+        "slim/psr7": "dev-master"
+    },
+    "require-dev": {
+        "slim/slim": "^4.10"
+    },
+    "autoload": {
+        "psr-4": { "Slim\\Views\\": "src" }
+    }
+}
