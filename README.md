@@ -2,7 +2,7 @@
 Pug view files renderer for Slim 4 framework
 
 ## Install
-`$ composer require alecnm/slim4-pug dev-master`
+`$ composer require alecnm/slim4-pug dev-main`
 
 ## Usage
 reference [Sample](sample/)
